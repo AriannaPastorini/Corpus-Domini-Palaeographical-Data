@@ -1,1 +1,0 @@
-# Corpus-Domini-Palaeographical-Data
