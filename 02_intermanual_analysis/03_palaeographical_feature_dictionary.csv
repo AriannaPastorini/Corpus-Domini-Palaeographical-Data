@@ -1,0 +1,222 @@
+﻿Feature,Sistema,Oggetto,Attributo,Valore,N_attestazioni,N_mani
+ABB_rum_variante_r_a_forma_di_2_tagliata,Abbreviativo,-rum,variante,r a forma di 2 tagliata,2,2
+ABB_rum_variante_r_capitale_tagliata,Abbreviativo,-rum,variante,r capitale tagliata,1,1
+ABB_rum_variante_r_diritta_tagliata,Abbreviativo,-rum,variante,r diritta tagliata,4,2
+ABB_ch_variante_1,Abbreviativo,ch,variante,1,1,1
+ABB_con_variante_a_forma_di_9,Abbreviativo,con,variante,a forma di 9,6,4
+ABB_et_variante_a_forma_di_7,Abbreviativo,et,variante,a forma di 7,8,8
+ABB_et_cetera_esecuzione_cetera_a_forma_della_legatura_ct,Abbreviativo,et cetera,esecuzione,cetera a forma della legatura ct,1,1
+ABB_mp_esecuzione_titulus_per_m_congiunto_allasta_di_p,Abbreviativo,mp,esecuzione,titulus per m congiunto all’asta di p,1,1
+ABB_nd_variante_titulus_per_nasale_congiunto_allasta_di_t_forma_angolare_ricciolo_iniziale,Abbreviativo,nd,variante,"titulus per nasale congiunto all’asta di t, forma angolare, ricciolo iniziale",2,1
+ABB_nt_variante_1,Abbreviativo,nt,variante,1,16,6
+ABB_nt_variante_2a,Abbreviativo,nt,variante,2a,27,15
+ABB_nt_variante_2b,Abbreviativo,nt,variante,2b,3,2
+ABB_p_er_esecuzione_asta_di_p_tagliata_da_un_marcato_tratto_ricurvo,Abbreviativo,p(er),esecuzione,asta di p tagliata da un marcato tratto ricurvo,1,1
+ABB_per_esecuzione_chiusa_asta_di_p_chiusa_da_marcato_tratto_orizzontale,Abbreviativo,per,esecuzione,chiusa asta di p chiusa da marcato tratto orizzontale,4,1
+ABB_per_esecuzione_taglio_in_forma_occhiellata,Abbreviativo,per,esecuzione,taglio in forma occhiellata,1,1
+ABB_q_ue_l_esecuzione_titulus_congiunto_allasta_di_l,Abbreviativo,q(ue)l-,esecuzione,titulus congiunto all’asta di l,3,1
+ABB_q_ui_esecuzione_asta_di_q_chiusa_da_marcato_tratto_orizzontale,Abbreviativo,q(ui),esecuzione,asta di q chiusa da marcato tratto orizzontale,1,1
+ABB_titulus_variante_1,Abbreviativo,titulus,variante,1,1,1
+ABB_titulus_variante_1a,Abbreviativo,titulus,variante,1a,26,16
+ABB_titulus_variante_1b,Abbreviativo,titulus,variante,1b,1,1
+ABB_titulus_variante_1c,Abbreviativo,titulus,variante,1c,2,2
+ABB_titulus_variante_2a,Abbreviativo,titulus,variante,2a,16,13
+ABB_titulus_variante_2b,Abbreviativo,titulus,variante,2b,15,7
+ABB_titulus_variante_3a,Abbreviativo,titulus,variante,3a,23,18
+ABB_titulus_variante_3b,Abbreviativo,titulus,variante,3b,5,5
+ABB_titulus_variante_4,Abbreviativo,titulus,variante,4,6,4
+DIA_accento_presenza_attestata,Diacritico,accento,presenza,attestata,3,3
+DIA_diacritico_su_i_variante_a_forma_di_lungo_accento_acuto,Diacritico,diacritico su i,variante,a forma di lungo accento acuto,1,1
+DIA_virgulae_suspensivae_presenza_attestata,Diacritico,virgulae suspensivae,presenza,attestata,18,13
+INT_due_punti_presenza_attestata,Interpuntivo,due punti,presenza,attestata,25,17
+INT_due_punti_e_svolazzo_presenza_attestata,Interpuntivo,due punti e svolazzo,presenza,attestata,1,1
+INT_due_punti_sospesi_includenti_presenza_attestata,Interpuntivo,due punti sospesi includenti,presenza,attestata,3,1
+INT_punto_e_virgola_presenza_attestata,Interpuntivo,punto e virgola,presenza,attestata,3,3
+INT_punto_semplice_presenza_attestata,Interpuntivo,punto semplice,presenza,attestata,31,20
+INT_punto_semplice_sospeso_presenza_attestata,Interpuntivo,punto semplice sospeso,presenza,attestata,3,3
+INT_segno_di_a_capo_variante_a_forma_di_punto_e_virgola,Interpuntivo,segno di a capo,variante,a forma di punto e virgola,1,1
+INT_segno_di_a_capo_variante_a_forma_di_tratto_orizzontale,Interpuntivo,segno di a capo,variante,a forma di tratto orizzontale,3,3
+INT_segno_di_a_capo_variante_a_forma_di_uguale,Interpuntivo,segno di a capo,variante,a forma di uguale,3,2
+INT_segno_di_a_capo_variante_a_forma_di_virgola,Interpuntivo,segno di a capo,variante,a forma di virgola,7,2
+INT_tratto_ondulato_presenza_attestata,Interpuntivo,tratto ondulato,presenza,attestata,1,1
+INT_tre_punti_presenza_attestata,Interpuntivo,tre punti,presenza,attestata,2,2
+INT_virgola_presenza_attestata,Interpuntivo,virgola,presenza,attestata,10,8
+LEG_ch_esecuzione_tratto_finale_di_h_prolungato_fino_a_intersecare_l_asta_sopra_la_rettrice,Legature,ch,esecuzione,tratto finale di h prolungato fino a intersecare l'asta sopra la rettrice,1,1
+LEG_ch_esecuzione_tratto_iniziale_di_h_eliso,Legature,ch,esecuzione,tratto iniziale di h eliso,1,1
+LEG_ct_variante_1,Legature,ct,variante,1,14,9
+LEG_ct_variante_2,Legature,ct,variante,2,25,13
+LEG_ct_variante_3,Legature,ct,variante,3,2,2
+LEG_di_d_occhiellata,Legature,di,d,occhiellata,1,1
+LEG_er_presenza_attestata,Legature,er,presenza,attestata,1,1
+LEG_et_variante_1,Legature,et,variante,1,32,20
+LEG_et_variante_2a,Legature,et,variante,2a,12,6
+LEG_et_variante_2b,Legature,et,variante,2b,8,4
+LEG_ff_variante_1,Legature,ff,variante,1,1,1
+LEG_ff_variante_2,Legature,ff,variante,2,1,1
+LEG_ff_variante_3,Legature,ff,variante,3,10,3
+LEG_ff_variante_4,Legature,ff,variante,4,1,1
+LEG_ff_variante_5,Legature,ff,variante,5,1,1
+LEG_ll_presenza_attestata,Legature,ll,presenza,attestata,4,4
+LEG_nt_variante_rotonda,Legature,nt,variante,rotonda,1,1
+LEG_rt_variante_rotonda,Legature,rt,variante,rotonda,1,1
+LEG_sp_variante_1,Legature,sp,variante,1,7,7
+LEG_sp_variante_2,Legature,sp,variante,2,9,6
+LEG_ss_variante_1,Legature,ss,variante,1,1,1
+LEG_ss_variante_2,Legature,ss,variante,2,2,2
+LEG_ss_variante_3,Legature,ss,variante,3,4,2
+LEG_ss_variante_asolata,Legature,ss,variante,asolata,1,1
+LEG_st_variante_1a,Legature,st,variante,1a,26,12
+LEG_st_variante_1b,Legature,st,variante,1b,32,20
+LEG_st_variante_2a,Legature,st,variante,2a,15,15
+LEG_st_variante_2b,Legature,st,variante,2b,16,16
+LEG_st_variante_3a,Legature,st,variante,3a,1,1
+LEG_st_variante_3b,Legature,st,variante,3b,4,4
+LEG_st_variante_4,Legature,st,variante,4,1,1
+MOR_a_tratto_finale_proiettato_verso_lalto,Morfologico,-a,tratto finale,proiettato verso l’alto,3,3
+MOR_a_tratto_finale_prolungato_verso_il_basso,Morfologico,-a,tratto finale,prolungato verso il basso,1,1
+MOR_a_variante_occhiellata,Morfologico,-a,variante,occhiellata,1,1
+MOR_e_traversa_proiettata_verso_lalto,Morfologico,-e,traversa,proiettata verso l’alto,2,2
+MOR_e_traversa_proiettata_verso_lalto_e_retroversa,Morfologico,-e,traversa,proiettata verso l’alto e retroversa,2,2
+MOR_e_traversa_prolungata,Morfologico,-e,traversa,prolungata,3,3
+MOR_i_variante_lunga,Morfologico,-i,variante,lunga,19,13
+MOR_l_tratto_di_base_orizzontale,Morfologico,-l,tratto di base,orizzontale,1,1
+MOR_m_tratto_finale_prolungato_sotto_la_rettrice,Morfologico,-m,tratto finale,prolungato sotto la rettrice,4,4
+MOR_m_variante_a_forma_di_3,Morfologico,-m,variante,a forma di 3,16,13
+MOR_n_tratto_finale_prolungato_sotto_la_rettrice,Morfologico,-n,tratto finale,prolungato sotto la rettrice,7,6
+MOR_r_tratto_finale_proiettato_verso_l_alto,Morfologico,-r,tratto finale,proiettato verso l'alto,1,1
+MOR_s_variante_discendente_trailing,Morfologico,-s,variante,discendente/trailing,2,2
+MOR_s_variante_rotonda,Morfologico,-s,variante,rotonda,1,1
+MOR_s_variante_primaria_rotonda,Morfologico,-s,variante primaria,rotonda,1,1
+MOR_s_variante_secondaria_lunga,Morfologico,-s,variante secondaria,lunga,2,2
+MOR_A_tratto_iniziale_ondulato,Morfologico,A,tratto iniziale,ondulato,1,1
+MOR_B_asta_ondulata,Morfologico,B,asta,ondulata,1,1
+MOR_D_variante_rotonda,Morfologico,D,variante,rotonda,1,1
+MOR_E_traversa_ondulata,Morfologico,E,traversa,ondulata,1,1
+MOR_F_variante_a_forma_di_S_tagliata,Morfologico,F,variante,a forma di S tagliata,1,1
+MOR_G_coda_dotata_di_tagliatura,Morfologico,G,coda,dotata di tagliatura,2,2
+MOR_G_coda_prolungata_sotto_la_rettrice_e_uncinata_a_sinistra,Morfologico,G,coda,prolungata sotto la rettrice e uncinata a sinistra,3,3
+MOR_G_tratto_dattacco_uncinato_a_sinistra,Morfologico,G,tratto d’attacco,uncinato a sinistra,1,1
+MOR_G_tratto_dattacco_verticale,Morfologico,G,tratto d’attacco,verticale,1,1
+MOR_G_variante_a_forma_di_y,Morfologico,G,variante,a forma di y,1,1
+MOR_G_variante_a_spirale,Morfologico,G,variante,a spirale,2,1
+MOR_I_asta_tagliata_orizzontalmente,Morfologico,I,asta,tagliata orizzontalmente,3,1
+MOR_L_tratto_di_base_orizzontale,Morfologico,L,tratto di base,orizzontale,1,1
+MOR_M_tratto_finale_ondulato,Morfologico,M,tratto finale,ondulato,1,1
+MOR_M_tratto_iniziale_ondulato,Morfologico,M,tratto iniziale,ondulato,1,1
+MOR_M_variante_compressa_orizzontalmente,Morfologico,M,variante,compressa orizzontalmente,1,1
+MOR_N_traversa_prolungata_sotto_la_rettrice_fino_a_includere_la_lettera_seguente,Morfologico,N,traversa,prolungata sotto la rettrice fino a includere la lettera seguente,2,1
+MOR_P_variante_con_occhiello_aperto_e_sinuoso,Morfologico,P,variante,con occhiello aperto e sinuoso,2,2
+MOR_Q_coda_prolungata_sotto_la_rettrice_e_incurvata_a_destra,Morfologico,Q,coda,prolungata sotto la rettrice e incurvata a destra,1,1
+MOR_R_tratto_finale_prolungato_sotto_la_rettrice_fino_a_includere_la_lettera_seguente,Morfologico,R,tratto finale,prolungato sotto la rettrice fino a includere la lettera seguente,2,1
+MOR_T_variante_a_forma_di_7,Morfologico,T,variante,a forma di 7,1,1
+MOR_V_variante_tratto_iniziale_a_zigzag,Morfologico,V,variante,tratto iniziale a zigzag,2,1
+MOR_a_tratto_finale_prolungato_verso_il_basso_2,Morfologico,a,tratto finale,prolungato verso il basso,1,1
+MOR_a_pancia_filiforme,Morfologico,a-,pancia,filiforme,1,1
+MOR_aste_apice_con_bolla_dinchiostro,Morfologico,aste,apice,con bolla d’inchiostro,1,1
+MOR_aste_ascendenti_apice_asolato,Morfologico,aste ascendenti,apice,asolato,4,1
+MOR_aste_ascendenti_apice_biforcato,Morfologico,aste ascendenti,apice,biforcato,1,1
+MOR_aste_ascendenti_apice_clavato,Morfologico,aste ascendenti,apice,clavato,1,1
+MOR_aste_ascendenti_apice_con_bolla_dinchiostro,Morfologico,aste ascendenti,apice,con bolla d’inchiostro,2,2
+MOR_aste_ascendenti_apice_incurvato_a_sinistra,Morfologico,aste ascendenti,apice,incurvato a sinistra,1,1
+MOR_aste_ascendenti_apice_piegato_a_sinistra,Morfologico,aste ascendenti,apice,piegato a sinistra,3,2
+MOR_aste_ascendenti_apice_testeggiato,Morfologico,aste ascendenti,apice,testeggiato,5,4
+MOR_aste_ascendenti_esecuzione_raddoppiata,Morfologico,aste ascendenti,esecuzione,raddoppiata,1,1
+MOR_aste_ascendenti_tratto_dattacco_obliquo,Morfologico,aste ascendenti,tratto d’attacco,obliquo,1,1
+MOR_aste_discendenti_apice_uncinato,Morfologico,aste discendenti,apice,uncinato,2,2
+MOR_d_variante_diritta,Morfologico,d,variante,diritta,4,4
+MOR_d_variante_diritta_compressa_verticalmente,Morfologico,d,variante,diritta compressa verticalmente,1,1
+MOR_d_variante_occhiellata,Morfologico,d,variante,occhiellata,2,2
+MOR_d_variante_rotonda,Morfologico,d,variante,rotonda,12,9
+MOR_d_variante_rotonda_a_chiocciola,Morfologico,d,variante,rotonda a chiocciola,1,1
+MOR_d_variante_primaria_diritta_compressa_verticalmente,Morfologico,d,variante primaria,diritta compressa verticalmente,1,1
+MOR_d_variante_secondaria_rotonda,Morfologico,d,variante secondaria,rotonda,4,4
+MOR_d_variante_secondaria_rotonda_a_chiocciola,Morfologico,d,variante secondaria,rotonda a chiocciola,1,1
+MOR_e_variante_disarticolata,Morfologico,e,variante,disarticolata,4,2
+MOR_e_variante_uncinata_aperta,Morfologico,e,variante,uncinata aperta,2,2
+MOR_et_esecuzione_al_modo_di_ct_e_st,Morfologico,et,esecuzione,al modo di ct e st,1,1
+MOR_f_apice_dotato_di_tagliatura,Morfologico,f,apice,dotato di tagliatura,3,3
+MOR_f_asta_occhiellata,Morfologico,f,asta,occhiellata,1,1
+MOR_f_tratto_dattacco_orizzontale,Morfologico,f,tratto d’attacco,orizzontale,1,1
+MOR_f_variante_lunga_a_chiodo,Morfologico,f,variante,lunga a chiodo,1,1
+MOR_fine_rigo_tratto_finale_prolungato_e_ondulato,Morfologico,fine rigo,tratto finale,prolungato e ondulato,1,1
+MOR_g_variante_1a,Morfologico,g,variante,1a,2,2
+MOR_g_variante_2a,Morfologico,g,variante,2a,14,11
+MOR_g_variante_2b,Morfologico,g,variante,2b,5,5
+MOR_g_variante_2c,Morfologico,g,variante,2c,3,3
+MOR_g_variante_3a,Morfologico,g,variante,3a,14,8
+MOR_g_variante_3b,Morfologico,g,variante,3b,14,8
+MOR_g_variante_3c,Morfologico,g,variante,3c,1,1
+MOR_g_variante_3d,Morfologico,g,variante,3d,19,13
+MOR_g_variante_4a,Morfologico,g,variante,4a,2,2
+MOR_g_variante_4b,Morfologico,g,variante,4b,2,1
+MOR_g_variante_5,Morfologico,g,variante,5,5,5
+MOR_g_variante_6,Morfologico,g,variante,6,1,1
+MOR_h_tratto_finale_prolungato_sotto_la_rettrice,Morfologico,h,tratto finale,prolungato sotto la rettrice,2,2
+MOR_h_tratto_finale_prolungato_sotto_la_rettrice_e_incurvato_a_sinistra,Morfologico,h,tratto finale,prolungato sotto la rettrice e incurvato a sinistra,11,11
+MOR_h_tratto_finale_prolungato_sotto_la_rettrice_e_uncinato_a_destra,Morfologico,h,tratto finale,prolungato sotto la rettrice e uncinato a destra,9,5
+MOR_h_tratto_finale_prolungato_sotto_la_rettrice_e_uncinato_a_sinistra,Morfologico,h,tratto finale,prolungato sotto la rettrice e uncinato a sinistra,8,3
+MOR_l_asta_ondulata,Morfologico,l,asta,ondulata,2,2
+MOR_l_tratto_di_base_orizzontale_2,Morfologico,l,tratto di base,orizzontale,2,2
+MOR_l_tratto_dattacco_obliquo,Morfologico,l,tratto d’attacco,obliquo,1,1
+MOR_l_l_tratto_di_base_ondulato,Morfologico,l-/-l,tratto di base,ondulato,3,1
+MOR_nuclei_tratto_dattacco_orizzontale,Morfologico,nuclei,tratto d’attacco,orizzontale,2,2
+MOR_p_apice_dotato_di_tagliatura,Morfologico,p,apice,dotato di tagliatura,11,8
+MOR_p_apice_uncinato_a_sinistra,Morfologico,p,apice,uncinato a sinistra,3,3
+MOR_p_asta_incurvata_a_destra,Morfologico,p,asta,incurvata a destra,2,2
+MOR_p_asta_occhiellata,Morfologico,p,asta,occhiellata,2,2
+MOR_p_occhiello_aperto,Morfologico,p,occhiello,aperto,2,2
+MOR_p_tratto_dattacco_obliquo,Morfologico,p,tratto d’attacco,obliquo,3,3
+MOR_p_tratto_dattacco_orizzontale,Morfologico,p,tratto d’attacco,orizzontale,1,1
+MOR_q_apice_dotato_di_tagliatura,Morfologico,q,apice,dotato di tagliatura,8,5
+MOR_q_apice_incurvato_a_sinistra,Morfologico,q,apice,incurvato a sinistra,1,1
+MOR_q_apice_uncinato_a_sinistra,Morfologico,q,apice,uncinato a sinistra,1,1
+MOR_q_asta_incurvata_a_sinistra,Morfologico,q,asta,incurvata a sinistra,2,2
+MOR_r_variante_a_forma_di_2,Morfologico,r,variante,a forma di 2,1,1
+MOR_r_variante_a_forma_di_v,Morfologico,r,variante,a forma di v,3,3
+MOR_r_variante_corsiva_moderna,Morfologico,r,variante,corsiva moderna,1,1
+MOR_r_variante_secondaria_a_forma_di_2,Morfologico,r,variante secondaria,a forma di 2,4,4
+MOR_r_variante_secondaria_corsiva_moderna,Morfologico,r,variante secondaria,corsiva moderna,4,3
+MOR_rr_r_a_forma_di_2,Morfologico,rr,r-,a forma di 2,1,1
+MOR_s_apice_dotato_di_tagliatura,Morfologico,s,apice,dotato di tagliatura,1,1
+MOR_s_asta_orpellata_al_centro,Morfologico,s,asta,orpellata al centro,3,3
+MOR_s_asta_tagliata_orizzontalmente,Morfologico,s,asta,tagliata orizzontalmente,1,1
+MOR_s_variante_diritta,Morfologico,s,variante,diritta,2,2
+MOR_s_variante_lunga,Morfologico,s,variante,lunga,2,2
+MOR_s_variante_lunga_a_chiodo,Morfologico,s,variante,lunga a chiodo,1,1
+MOR_s_variante_rotonda_2,Morfologico,s,variante,rotonda,4,3
+MOR_s_variante_primaria_lunga,Morfologico,s,variante primaria,lunga,5,4
+MOR_s_variante_primaria_rotonda_2,Morfologico,s,variante primaria,rotonda,5,4
+MOR_s_asta_orpellata_al_centro_2,Morfologico,s-,asta,orpellata al centro,1,1
+MOR_s_variante_lunga_2,Morfologico,s-,variante,lunga,1,1
+MOR_sistema_maiuscolo_derivazione_umanistica,Morfologico,sistema maiuscolo,derivazione,umanistica,1,1
+MOR_ss_esecuzione_s_diritta_s_rotonda,Morfologico,ss,esecuzione,s diritta; s rotonda,2,2
+MOR_ss_esecuzione_s_lunga_s_rotonda,Morfologico,ss,esecuzione,s lunga; s rotonda,8,7
+MOR_ss_esecuzione_s_sottomodulata,Morfologico,ss,esecuzione,s- sottomodulata,2,2
+MOR_t_apice_asolato,Morfologico,t,apice,asolato,1,1
+MOR_t_tratto_dattacco_obliquo,Morfologico,t,tratto d’attacco,obliquo,1,1
+MOR_t_tratto_dattacco_orizzontale,Morfologico,t,tratto d’attacco,orizzontale,1,1
+MOR_v_tratto_dattacco_orizzontale,Morfologico,v-,tratto d’attacco,orizzontale,3,1
+MOR_v_tratto_dattacco_verticale,Morfologico,v-,tratto d’attacco,verticale,1,1
+MOR_v_variante_diritta,Morfologico,v-,variante,diritta,1,1
+MOR_x_tratto_finale_prolungato_sotto_la_rettrice,Morfologico,x,tratto finale,prolungato sotto la rettrice,13,5
+MOR_x_tratto_finale_prolungato_sotto_la_rettrice_e_incurvato_a_sinistra,Morfologico,x,tratto finale,prolungato sotto la rettrice e incurvato a sinistra,1,1
+MOR_x_tratto_finale_prolungato_sotto_la_rettrice_e_uncinato_a_destra,Morfologico,x,tratto finale,prolungato sotto la rettrice e uncinato a destra,8,7
+MOR_x_tratto_finale_prolungato_sotto_la_rettrice_e_uncinato_a_sinistra,Morfologico,x,tratto finale,prolungato sotto la rettrice e uncinato a sinistra,1,1
+MOR_x_variante_a_due_c_contrapposte,Morfologico,x,variante,a due c contrapposte,1,1
+MOR_y_apice_uncinato_a_destra,Morfologico,y,apice,uncinato a destra,3,2
+MOR_z_funzione_affricata_postalveolare,Morfologico,z,funzione,affricata postalveolare,1,1
+MOR_z_variante_a_forma_di_2,Morfologico,z,variante,a forma di 2,18,13
+MOR_z_variante_a_forma_di_3,Morfologico,z,variante,a forma di 3,25,16
+MOR_z_variante_moderna,Morfologico,z,variante,moderna,3,2
+MOR_c_funzione_affricata_alveolare,Morfologico,ç,funzione,affricata alveolare,3,3
+MOR_c_funzione_affricata_postalveolare_sonora,Morfologico,ç,funzione,affricata postalveolare sonora,1,1
+MOR_e_presenza_attestata,Morfologico,ȩ,presenza,attestata,1,1
+PAR_fine_rigo_variante_motivo_a_tre_linee,Paragrafico,fine rigo,variante,motivo a tre linee,1,1
+PAR_fine_rigo_variante_tratti_ondulati,Paragrafico,fine rigo,variante,tratti ondulati,1,1
+PAR_linea_separativa_presenza_attestata,Paragrafico,linea separativa,presenza,attestata,1,1
+PAR_segno_di_integrazione_variante_a_forma_di_serratura,Paragrafico,segno di integrazione,variante,a forma di serratura,1,1
+PAR_segno_di_paragrafo_variante_parentesi_quadra,Paragrafico,segno di paragrafo,variante,parentesi quadra,1,1
+PAR_segno_di_registrazione_variante_a_forma_di_A,Paragrafico,segno di registrazione,variante,a forma di A,1,1
+PAR_segno_di_registrazione_variante_a_forma_di_A_con_doppia_traversa,Paragrafico,segno di registrazione,variante,a forma di A con doppia traversa,1,1
+PAR_segno_di_registrazione_variante_a_forma_di_quadra_annerita_nellangolo,Paragrafico,segno di registrazione,variante,a forma di quadra annerita nell’angolo,1,1
+PAR_segno_di_registrazione_variante_a_forma_di_quadra_retata,Paragrafico,segno di registrazione,variante,a forma di quadra retata,1,1
