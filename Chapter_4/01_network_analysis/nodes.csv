@@ -1,0 +1,85 @@
+Id,Label,type,componentnumber,degree
+M1,Valeria,Mano,0,1
+M2,M2,Mano,1,4
+M3,M3,Mano,1,2
+M4,M4,Mano,1,2
+M5,Clemenza,Mano,1,7
+M6,Cherubina,Mano,1,8
+M7,M7,Mano,1,1
+M8,M8,Mano,2,1
+M9,Vittoria,Mano,3,2
+M10,M10,Mano,1,1
+M11,M11,Mano,1,1
+M12,M12,Mano,1,1
+M13,M13,Mano,1,1
+M14,M14,Mano,2,1
+M15,Bianca Maria,Mano,4,1
+M16,Armelina,Mano,1,3
+M17,M17,Mano,1,1
+M18,Camilla,Mano,1,3
+M19,M19,Mano,1,1
+M20,Violante,Mano,1,1
+M21,M21,Mano,5,1
+M22,M22,Mano,6,1
+M23,M23,Mano,1,1
+M24,M24,Mano,7,1
+M25,M25,Mano,8,1
+M26,M26,Mano,9,1
+M27,M27,Mano,1,1
+M28,M28,Mano,1,1
+M29,M29,Mano,1,1
+M30,M30,Mano,10,1
+M31,M31,Mano,11,1
+M32,M32,Mano,1,1
+M33,Bianca,Mano,1,4
+M34,M34,Mano,1,1
+M35,M35,Mano,1,1
+M36,M36,Mano,1,1
+M37,M37,Mano,1,1
+M38,M38,Mano,1,1
+M39,M39,Mano,1,1
+M40,M40,Mano,1,1
+M41,M41,Mano,1,1
+M42,Felice,Mano,1,1
+M43,M43,Mano,1,2
+M44,M44,Mano,11,1
+M45,M45,Mano,12,1
+M46,M46,Mano,13,1
+M47,M47,Mano,1,1
+M48,Paolo,Mano,14,2
+"MS. 12,4","MS. 12,4",Manoscritto,14,1
+"MS. 14,2","MS. 14,2",Manoscritto,14,1
+"MS. 23,1","MS. 23,1",Manoscritto,1,3
+"MS. 24,6","MS. 24,6",Manoscritto,1,2
+"MS. 28,2","MS. 28,2",Manoscritto,4,1
+"MS. 29,2","MS. 29,2",Manoscritto,6,1
+"MS. 30,1","MS. 30,1",Manoscritto,1,3
+"MS. 30,2","MS. 30,2",Manoscritto,1,2
+"MS. 31,2","MS. 31,2",Manoscritto,1,1
+"MS. 31,3","MS. 31,3",Manoscritto,1,1
+"MS. 33,5","MS. 33,5",Manoscritto,3,1
+"MS. 34,1","MS. 34,1",Manoscritto,1,1
+"MS. 35,2","MS. 35,2",Manoscritto,8,1
+"MS. 35,4","MS. 35,4",Manoscritto,5,1
+"MS. 35,6","MS. 35,6",Manoscritto,1,3
+"MS. 35,7","MS. 35,7",Manoscritto,1,1
+"MS. 36,2","MS. 36,2",Manoscritto,2,2
+"MS. 37,1","MS. 37,1",Manoscritto,9,1
+"MS. 37,7","MS. 37,7",Manoscritto,1,5
+"MS. 37,9","MS. 37,9",Manoscritto,1,1
+"MS. 38,1","MS. 38,1",Manoscritto,1,2
+"MS. 38,2","MS. 38,2",Manoscritto,1,2
+"MS. 38,3","MS. 38,3",Manoscritto,1,5
+"MS. 39,2","MS. 39,2",Manoscritto,11,2
+"MS. 41,1","MS. 41,1",Manoscritto,0,1
+"MS. 42,4","MS. 42,4",Manoscritto,1,1
+"MS. 45,2","MS. 45,2",Manoscritto,12,1
+"MS. 46,1","MS. 46,1",Manoscritto,13,1
+"MS. 50,1","MS. 50,1",Manoscritto,1,1
+"MS. 50,2","MS. 50,2",Manoscritto,1,5
+"MS. 50,3","MS. 50,3",Manoscritto,1,8
+"MS. 51,1","MS. 51,1",Manoscritto,3,1
+"MS. 51,2","MS. 51,2",Manoscritto,1,2
+"MS. 52,1","MS. 52,1",Manoscritto,7,1
+"MS. 52,2","MS. 52,2",Manoscritto,1,9
+"MS. 52,3","MS. 52,3",Manoscritto,10,1
